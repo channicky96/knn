@@ -1,0 +1,19 @@
+@relation nepenthes
+
+@attribute width numeric
+@attribute length numeric
+@attribute class {truncata,raja}
+
+@data
+9,13,truncata
+5,14,raja
+7,14,truncata
+6,11,raja
+6,12,raja
+5,12,raja
+8,15,raja
+6,15,truncata
+8,13,raja
+7,12,truncata
+4,13,raja
+9,16,truncata
